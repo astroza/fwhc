@@ -9,5 +9,5 @@
 // ==/UserScript==
 
 $("<h2>Los comentarios fueron omitidos por FWHC</h2>").insertAfter('#disqus_thread');
-$('#disqus_thread').hide("");
+$('#disqus_thread').hide();
 
